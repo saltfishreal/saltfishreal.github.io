@@ -1,0 +1,23 @@
+#container {
+    width: 480px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+    margin-top: 1em;
+}
+label {
+    font-size: 125%;
+    font-weight: bold;
+}
+input {
+    margin: 5px 0 5px 0;
+}
+textarea {
+    min-height: 175px!important;
+}
+footer {
+    text-align: center;
+    font-size: 130%;
+    margin-bottom: 1.5em;
+}
